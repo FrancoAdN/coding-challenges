@@ -1,6 +1,6 @@
 # 94. Binary Tree Inorder Traversal
 
-<span style="background-color: #1cb8b8; color: white; padding: 5px; border-radius: 5px;">Easy <span style="margin-left: 5px;">&bull;</span></span>
+![](../tags/easy.svg)
 
 [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 
