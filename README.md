@@ -1,6 +1,28 @@
 # Coding Challenges
 
-- 876. Middle of the Linked List
-       Solved https://leetcode.com/problems/middle-of-the-linked-list/description/
+## Linked Lists
 
-- 21. Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/description/
+### Useful links
+
+- [https://medium.com/@arifimran5/fast-and-slow-pointer-pattern-in-linked-list-43647869ac99]()
+
+### Problems
+
+![](tags/easy.svg)
+
+- [21. Merge Two Sorted Lists](merge-two-sorted-lists/README.md)
+
+![](tags/medium.svg)
+
+- [19. Remove Nth node from end of LinkedList](remove-nth-node-from-end-of-list/README.md)
+
+## Trees
+
+### Useful links
+
+### Problems
+
+![](tags/easy.svg)
+
+- [94. Binary Tree Inorder Traversal](binary-tree-inorder-traversal/README.md)
+- [101. Symmetric Tree](symmetric-tree/README.md)

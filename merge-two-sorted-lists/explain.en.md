@@ -8,7 +8,7 @@
    iii. Move the pointer from the `tail`.
 4. Return the next pointer from the `dummy` list.
 
-## Strategys
+## Strategy
 
 Algorithm
 
