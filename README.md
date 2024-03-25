@@ -1,5 +1,15 @@
 # Coding Challenges
 
+## Arrays
+
+### Useful links
+
+### Problems
+
+![](tags/easy.svg)
+
+- [](remove-duplicates-from-sorted-array/README.md)
+
 ## Linked Lists
 
 ### Useful links
