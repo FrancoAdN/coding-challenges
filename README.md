@@ -11,6 +11,7 @@
 ![](tags/easy.svg)
 
 - [21. Merge Two Sorted Lists](merge-two-sorted-lists/README.md)
+- [876. Middle of the Linked List](middle-of-the-linked-list/README.md)
 
 ![](tags/medium.svg)
 
