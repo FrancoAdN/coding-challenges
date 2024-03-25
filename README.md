@@ -8,7 +8,7 @@
 
 ![](tags/easy.svg)
 
-- [](remove-duplicates-from-sorted-array/README.md)
+- [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
 
 ## Linked Lists
 
