@@ -9,6 +9,7 @@
 ![](tags/easy.svg)
 
 - [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
+- [1. Two Sum](two-sum/README.md)
 
 ## Linked Lists
 
