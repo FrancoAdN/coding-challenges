@@ -10,6 +10,7 @@
 
 - [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
 - [1. Two Sum](two-sum/README.md)
+- [58. Length of Last Word](length-of-last-word/README.md)
 
 ## Linked Lists
 
