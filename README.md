@@ -10,6 +10,7 @@
 
 - [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
 - [1. Two Sum](two-sum/README.md)
+- [20. Valid Parentheses](valid-parentheses/README.md)
 
 ## Linked Lists
 
