@@ -1,6 +1,6 @@
 # Coding Challenges
 
-## Arrays
+## Arrays/Strings
 
 ### Useful links
 
@@ -10,6 +10,7 @@
 
 - [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
 - [1. Two Sum](two-sum/README.md)
+- [2259. Remove Digit From Number to Maximize Result](remove-digit-from-number-to-maximize-result/README.md)
 
 ## Linked Lists
 
