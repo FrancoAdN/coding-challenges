@@ -11,6 +11,10 @@
 - [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
 - [1. Two Sum](two-sum/README.md)
 
+![](tags/medium.svg)
+
+- [6. Zigzag Conversion](zigzag-conversion/README.md)
+
 ## Linked Lists
 
 ### Useful links
