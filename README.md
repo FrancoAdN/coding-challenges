@@ -15,7 +15,7 @@
 
 ### Useful links
 
-- [https://medium.com/@arifimran5/fast-and-slow-pointer-pattern-in-linked-list-43647869ac99]()
+- [Fast and Slow pointer pattern](https://medium.com/@arifimran5/fast-and-slow-pointer-pattern-in-linked-list-43647869ac99)
 
 ### Problems
 
@@ -45,6 +45,18 @@
 
 ### Useful links
 
-- [](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+- [Heap Visualization](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
 
 ### Problems
+
+## Math
+
+### Useful links
+
+- [Recurrence Relations](<https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Applied_Discrete_Structures_(Doerr_and_Levasseur)/08%3A_Recursion_and_Recurrence_Relations/8.03%3A_Recurrence_Relations>)
+
+### Problems
+
+![](tags/easy.svg)
+
+- [509. Fibonacci Number](fibonacci-number/README.md)
