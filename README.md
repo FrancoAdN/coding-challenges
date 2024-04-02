@@ -4,6 +4,8 @@
 
 ### Useful links
 
+- [Two pointer pattern](https://medium.com/@timpark0807/leetcode-is-easy-two-pointers-90b9b0f2eb43)
+
 ### Problems
 
 ![](tags/easy.svg)
@@ -11,6 +13,7 @@
 - [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
 - [1. Two Sum](two-sum/README.md)
 - [2259. Remove Digit From Number to Maximize Result](remove-digit-from-number-to-maximize-result/README.md)
+- [9. Palindrome Number](is-palindrome/README.md)
 
 ## Linked Lists
 
