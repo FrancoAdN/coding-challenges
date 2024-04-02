@@ -10,6 +10,7 @@
 
 - [26. Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
 - [1. Two Sum](two-sum/README.md)
+- [169. Majority Element](majority-element/README.md)
 
 ## Linked Lists
 
