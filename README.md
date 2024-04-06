@@ -24,6 +24,7 @@
 - [21. Merge Two Sorted Lists](merge-two-sorted-lists/README.md)
 - [876. Middle of the Linked List](middle-of-the-linked-list/README.md)
 - [141. Linked List Cycle](linked-list-has-cycle/README.md)
+- [83. Remove Duplicates from Sorted List](remove-duplicates-from-sorted-list/README.md)
 
 ![](tags/medium.svg)
 
