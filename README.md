@@ -34,6 +34,10 @@
 - [19. Remove Nth node from end of LinkedList](remove-nth-node-from-end-of-list/README.md)
 - [142. Linked List Cycle II](linked-list-cycle-II/README.md)
 
+![](tags/hard.svg)
+
+- [23. Merge k Sorted Lists](merge-k-sorted-lists/README.md)
+
 ## Trees
 
 ### Useful links
