@@ -1,3 +1,5 @@
+// DIDN'T WORK - RECHECK
+
 class TrieNode {
 	children: Record<string, TrieNode>;
 	isEndOfWord: boolean;
