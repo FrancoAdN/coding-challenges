@@ -15,6 +15,10 @@
 - [2259. Remove Digit From Number to Maximize Result](remove-digit-from-number-to-maximize-result/README.md)
 - [9. Palindrome Number](is-palindrome/README.md)
 
+![](tags/medium.svg)
+
+- [6. Zigzag Conversion](zigzag-conversion/README.md)
+
 ## Linked Lists
 
 ### Useful links
