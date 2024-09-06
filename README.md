@@ -15,6 +15,7 @@
 - [2259. Remove Digit From Number to Maximize Result](remove-digit-from-number-to-maximize-result/README.md)
 - [9. Palindrome Number](is-palindrome/README.md)
 - [169. Majority Element](majority-element/README.md)
+- [66. Plus One](plus-one/README.md)
 
 ![](tags/medium.svg)
 
