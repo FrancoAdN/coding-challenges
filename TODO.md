@@ -29,3 +29,4 @@ README:
 [] 981. Time Based Key-Value Store
 [] 973. K Closest Points to Origin
 [] 42. Trapping Rain Water
+[] 2233. Maximum Product After K Increments
