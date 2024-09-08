@@ -34,3 +34,4 @@ README:
 [] 36. Valid Sudoku
 [] 121. Best Time to Buy and Sell Stock
 [] 70. Climbing Stairs
+[] 374. Guess Number Higher or Lower
