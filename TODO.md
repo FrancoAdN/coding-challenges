@@ -31,3 +31,4 @@ README:
 [] 42. Trapping Rain Water
 [] 2233. Maximum Product After K Increments
 [] 957. Prison Cells After N Days
+[] 36. Valid Sudoku
