@@ -37,3 +37,4 @@ README:
 [] 374. Guess Number Higher or Lower
 [] 733. Flood Fill
 [] 2239. Find Closest Number to Zero
+[] 1768. Merge Strings Alternately
