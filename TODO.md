@@ -40,3 +40,4 @@ README:
 [] 1768. Merge Strings Alternately
 [] 13. Roman to Integer
 [] 392. Is Subsequence
+[] 14. Longest Common Prefix
