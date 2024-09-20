@@ -16,6 +16,7 @@
 - [9. Palindrome Number](is-palindrome/README.md)
 - [169. Majority Element](majority-element/README.md)
 - [66. Plus One](plus-one/README.md)
+- [58. Length of Last Word](length-of-last-word/README.md)
 
 ![](tags/medium.svg)
 

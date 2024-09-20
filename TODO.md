@@ -1,8 +1,5 @@
 README:
-[] 58. Length of Last Word
-[] 66. Plus One
 [] 83. Remove Duplicates from Sorted List
-[] 169. Majority Element
 [] 20. Valid Parentheses
 [] 6. Zigzag Conversion
 [] 23. Merge k Sorted Lists
