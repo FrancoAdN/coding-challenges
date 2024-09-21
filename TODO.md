@@ -40,3 +40,4 @@ README:
 [] 14. Longest Common Prefix
 [] 238. Product of Array Except Self
 [] 228. Summary Ranges
+[] 56. Merge Intervals
