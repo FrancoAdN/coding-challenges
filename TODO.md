@@ -45,3 +45,4 @@ README:
 [] 771. Jewels and Stones
 [] 217. Contains Duplicate
 [] 1189. Maximum Number of Balloons
+[] 242. Valid Anagram
