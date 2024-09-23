@@ -42,3 +42,4 @@ README:
 [] 228. Summary Ranges
 [] 56. Merge Intervals
 [] 48. Rotate Image
+[] 771. Jewels and Stones
