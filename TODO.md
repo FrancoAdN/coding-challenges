@@ -48,3 +48,5 @@ README:
 [] 242. Valid Anagram
 [] 383. Ransom Note
 [] 49. Group Anagrams
+[] 128. Longest Consecutive Sequence
+
