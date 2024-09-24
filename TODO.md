@@ -48,3 +48,5 @@ README:
 [] 242. Valid Anagram
 [] 383. Ransom Note
 [] 977. Squares of a Sorted Array
+[] 49. Group Anagrams
+[] 128. Longest Consecutive Sequence
