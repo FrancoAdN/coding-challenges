@@ -21,4 +21,6 @@ class Solution:
                 stk.append(int(t))
 
         return stk[0]
-        
+
+        # Time: O(n)
+        # Space: O(n)
